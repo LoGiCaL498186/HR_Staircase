@@ -1,0 +1,6 @@
+C:\Users\dj\Desktop\Temp\Forensics_1\Staircase\Staircase\bin\Debug\Staircase.exe.config
+C:\Users\dj\Desktop\Temp\Forensics_1\Staircase\Staircase\bin\Debug\Staircase.exe
+C:\Users\dj\Desktop\Temp\Forensics_1\Staircase\Staircase\bin\Debug\Staircase.pdb
+C:\Users\dj\Desktop\Temp\Forensics_1\Staircase\Staircase\obj\Debug\Staircase.exe
+C:\Users\dj\Desktop\Temp\Forensics_1\Staircase\Staircase\obj\Debug\Staircase.pdb
+C:\Users\dj\Desktop\Temp\Forensics_1\Staircase\Staircase\obj\Debug\Staircase.csprojResolveAssemblyReference.cache
